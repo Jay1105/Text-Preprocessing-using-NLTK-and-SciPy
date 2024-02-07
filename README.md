@@ -1,4 +1,4 @@
-# Text-Preprocessing-using-NLTK-and-SciPy
+# Text-Preprocessing-using-NLTK-and-Spacy
 Performing text pre-processing operations:
 1. Tokenization
 2. Converting Text Lower Case
